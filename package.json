@@ -2,7 +2,7 @@
   "name": "recipe-book-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nirch.github.io/recipe-book-react",
+  "homepage": "https://eladsheffer.github.io/recipe-book-react",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react": "^16.10.1",
